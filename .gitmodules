@@ -10,3 +10,6 @@
 [submodule "Clients/roBrowser"]
 	path = Clients/roBrowser
 	url = https://github.com/MrAntares/roBrowserLegacy
+[submodule "Clients/UnityRO"]
+	path = Clients/UnityRO
+	url = https://github.com/guilhermelhr/unityro
