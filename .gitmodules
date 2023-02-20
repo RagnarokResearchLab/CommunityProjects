@@ -49,3 +49,6 @@
 [submodule "Clients/Rustarok"]
 	path = Clients/Rustarok
 	url = https://github.com/bbodi/rustarok
+[submodule "Tools/ro-str-viewer"]
+	path = Tools/ro-str-viewer
+	url = https://github.com/ADHSoft/ro-str-viewer
