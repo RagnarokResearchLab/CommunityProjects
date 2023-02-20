@@ -61,3 +61,6 @@
 [submodule "Clients/Gullinkambi"]
 	path = Clients/Gullinkambi
 	url = https://github.com/meh/Gullinkambi
+[submodule "Clients/MidgardClient"]
+	path = Clients/MidgardClient
+	url = https://github.com/shikazu/MidgardClient
