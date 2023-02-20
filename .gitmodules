@@ -46,3 +46,6 @@
 [submodule "Servers/Midgard"]
 	path = Servers/Midgard
 	url = https://github.com/ViteFalcon/midgard
+[submodule "Clients/Rustarok"]
+	path = Clients/Rustarok
+	url = https://github.com/bbodi/rustarok
