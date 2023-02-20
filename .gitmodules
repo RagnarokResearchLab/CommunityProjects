@@ -37,3 +37,6 @@
 [submodule "Servers/RustRO"]
 	path = Servers/RustRO
 	url = https://github.com/nmeylan/rust-ro
+[submodule "Servers/rAthena"]
+	path = Servers/rAthena
+	url = https://github.com/rathena/rathena
