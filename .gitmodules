@@ -34,3 +34,6 @@
 [submodule "Clients/OpenRagnarok"]
 	path = Clients/OpenRagnarok
 	url = https://github.com/open-ragnarok/open-ragnarok
+[submodule "Servers/RustRO"]
+	path = Servers/RustRO
+	url = https://github.com/nmeylan/rust-ro
