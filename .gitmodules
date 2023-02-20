@@ -55,3 +55,6 @@
 [submodule "Clients/Dolori"]
 	path = Clients/Dolori
 	url = https://gitlab.com/Dolori/Dolori
+[submodule "Clients/Apocalypse"]
+	path = Clients/Apocalypse
+	url = https://github.com/JohoSleipnir/Apocalypse
