@@ -22,3 +22,6 @@
 [submodule "Clients/RagnarokRebuild"]
 	path = Clients/RagnarokRebuild
 	url = https://github.com/Doddler/RagnarokRebuild
+[submodule "Clients/RagnarokRebuildTCP"]
+	path = Clients/RagnarokRebuildTCP
+	url = https://github.com/Doddler/RagnarokRebuildTcp
