@@ -40,3 +40,6 @@
 [submodule "Servers/rAthena"]
 	path = Servers/rAthena
 	url = https://github.com/rathena/rathena
+[submodule "Servers/Hercules"]
+	path = Servers/Hercules
+	url = https://github.com/HerculesWS/Hercules
