@@ -4,3 +4,6 @@
 [submodule "Tools/BrowEdit3"]
 	path = Tools/BrowEdit3
 	url = https://github.com/Borf/BrowEdit3
+[submodule "Clients/Korangar"]
+	path = Clients/Korangar
+	url = https://github.com/vE5li/korangar
