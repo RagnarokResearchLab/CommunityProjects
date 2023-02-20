@@ -58,3 +58,6 @@
 [submodule "Clients/Apocalypse"]
 	path = Clients/Apocalypse
 	url = https://github.com/JohoSleipnir/Apocalypse
+[submodule "Clients/Gullinkambi"]
+	path = Clients/Gullinkambi
+	url = https://github.com/meh/Gullinkambi
