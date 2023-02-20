@@ -43,3 +43,6 @@
 [submodule "Servers/Hercules"]
 	path = Servers/Hercules
 	url = https://github.com/HerculesWS/Hercules
+[submodule "Servers/Midgard"]
+	path = Servers/Midgard
+	url = https://github.com/ViteFalcon/midgard
