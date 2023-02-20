@@ -28,3 +28,6 @@
 [submodule "Clients/RagnarokJS"]
 	path = Clients/RagnarokJS
 	url = https://github.com/GodLesZ/rangarok-js
+[submodule "Clients/Fimbulwinter"]
+	path = Clients/Fimbulwinter
+	url = https://github.com/greenboxal/fimbulclient
