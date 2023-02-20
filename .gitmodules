@@ -16,3 +16,6 @@
 [submodule "Clients/midgarts"]
 	path = Clients/midgarts
 	url = https://github.com/drgomesp/midgarts
+[submodule "Clients/Aesir"]
+	path = Clients/Aesir
+	url = https://github.com/Temtaime/aesir
