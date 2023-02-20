@@ -25,3 +25,6 @@
 [submodule "Clients/RagnarokRebuildTCP"]
 	path = Clients/RagnarokRebuildTCP
 	url = https://github.com/Doddler/RagnarokRebuildTcp
+[submodule "Clients/RagnarokJS"]
+	path = Clients/RagnarokJS
+	url = https://github.com/GodLesZ/rangarok-js
