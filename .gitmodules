@@ -19,3 +19,6 @@
 [submodule "Clients/Aesir"]
 	path = Clients/Aesir
 	url = https://github.com/Temtaime/aesir
+[submodule "Clients/RagnarokRebuild"]
+	path = Clients/RagnarokRebuild
+	url = https://github.com/Doddler/RagnarokRebuild
