@@ -7,3 +7,6 @@
 [submodule "Clients/Korangar"]
 	path = Clients/Korangar
 	url = https://github.com/vE5li/korangar
+[submodule "Clients/roBrowser"]
+	path = Clients/roBrowser
+	url = https://github.com/MrAntares/roBrowserLegacy
