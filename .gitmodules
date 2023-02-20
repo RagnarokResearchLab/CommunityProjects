@@ -1,0 +1,3 @@
+[submodule "Tools/BrowEdit"]
+	path = Tools/BrowEdit
+	url = https://github.com/Borf/browedit
