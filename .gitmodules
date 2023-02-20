@@ -13,3 +13,6 @@
 [submodule "Clients/UnityRO"]
 	path = Clients/UnityRO
 	url = https://github.com/guilhermelhr/unityro
+[submodule "Clients/midgarts"]
+	path = Clients/midgarts
+	url = https://github.com/drgomesp/midgarts
