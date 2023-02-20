@@ -31,3 +31,6 @@
 [submodule "Clients/Fimbulwinter"]
 	path = Clients/Fimbulwinter
 	url = https://github.com/greenboxal/fimbulclient
+[submodule "Clients/OpenRagnarok"]
+	path = Clients/OpenRagnarok
+	url = https://github.com/open-ragnarok/open-ragnarok
