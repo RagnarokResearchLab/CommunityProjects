@@ -64,3 +64,6 @@
 [submodule "Clients/MidgardClient"]
 	path = Clients/MidgardClient
 	url = https://github.com/shikazu/MidgardClient
+[submodule "Tools/zgrf"]
+	path = Tools/zgrf
+	url = https://github.com/zhad3/zgrf
