@@ -67,3 +67,6 @@
 [submodule "Tools/zgrf"]
 	path = Tools/zgrf
 	url = https://github.com/zhad3/zgrf
+[submodule "Tools/zrenderer"]
+	path = Tools/zrenderer
+	url = https://github.com/zhad3/zrenderer
