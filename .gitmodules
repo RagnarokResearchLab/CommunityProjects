@@ -73,3 +73,6 @@
 [submodule "Tools/zextractor"]
 	path = Tools/zextractor
 	url = https://github.com/zhad3/zextractor
+[submodule "Tools/GrfUnpack"]
+	path = Tools/GrfUnpack
+	url = https://github.com/exectails/GrfUnpack
