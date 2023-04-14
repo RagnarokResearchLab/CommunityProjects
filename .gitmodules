@@ -85,3 +85,6 @@
 [submodule "Clients/unityro2/unityro-io"]
 	path = Clients/unityro2/unityro-io
 	url = https://github.com/def-not-a-game-studio/unityro-io
+[submodule "Tools/grf-reader"]
+	path = Tools/grf-reader
+	url = https://github.com/EmanuelJr/grf-reader
