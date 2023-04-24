@@ -88,3 +88,6 @@
 [submodule "Tools/grf-reader"]
 	path = Tools/grf-reader
 	url = https://github.com/EmanuelJr/grf-reader
+[submodule "Tools/RRF-Parser"]
+	path = Tools/RRF-Parser
+	url = https://github.com/Tokeiburu/Rrf-Parser.git
