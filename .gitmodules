@@ -88,3 +88,6 @@
 [submodule "Servers/aliter"]
 	path = Servers/aliter
 	url = https://github.com/aliter/aliter
+[submodule "Servers/exAthena"]
+	path = Servers/exAthena
+	url = https://github.com/supaMOBA/exAthena
