@@ -85,3 +85,6 @@
 [submodule "Clients/UnityRO-SDK"]
 	path = Clients/UnityRO-SDK
 	url = https://github.com/def-not-a-game-studio/unityro-sdk.git
+[submodule "Servers/aliter"]
+	path = Servers/aliter
+	url = https://github.com/aliter/aliter
