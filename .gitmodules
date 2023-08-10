@@ -91,3 +91,6 @@
 [submodule "Tools/RRF-Parser"]
 	path = Tools/RRF-Parser
 	url = https://github.com/Tokeiburu/Rrf-Parser.git
+[submodule "Clients/UnityRO-SDK"]
+	path = Clients/UnityRO-SDK
+	url = https://github.com/def-not-a-game-studio/unityro-sdk.git
