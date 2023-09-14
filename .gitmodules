@@ -100,3 +100,6 @@
 [submodule "Tools/ActEditor"]
 	path = Tools/ActEditor
 	url = https://github.com/Tokeiburu/ActEditor.git
+[submodule "Tools/RSM2"]
+	path = Tools/RSM2
+	url = https://github.com/Tokeiburu/RSM2.git
