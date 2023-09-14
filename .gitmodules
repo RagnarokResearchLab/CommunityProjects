@@ -91,3 +91,6 @@
 [submodule "Servers/exAthena"]
 	path = Servers/exAthena
 	url = https://github.com/supaMOBA/exAthena
+[submodule "Tools/ROplusplus"]
+	path = Tools/ROplusplus
+	url = https://github.com/phaicm/ROplusplus.git
