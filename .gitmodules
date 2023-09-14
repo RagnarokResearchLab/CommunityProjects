@@ -97,3 +97,6 @@
 [submodule "Tools/GRFEditor"]
 	path = Tools/GRFEditor
 	url = https://github.com/Tokeiburu/GRFEditor.git
+[submodule "Tools/ActEditor"]
+	path = Tools/ActEditor
+	url = https://github.com/Tokeiburu/ActEditor.git
