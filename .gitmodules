@@ -94,3 +94,6 @@
 [submodule "Tools/ROplusplus"]
 	path = Tools/ROplusplus
 	url = https://github.com/phaicm/ROplusplus.git
+[submodule "Tools/GRFEditor"]
+	path = Tools/GRFEditor
+	url = https://github.com/Tokeiburu/GRFEditor.git
