@@ -15,8 +15,7 @@
 	url = https://github.com/guilhermelhr/unityro
 [submodule "Clients/midgarts"]
 	path = Clients/midgarts
-	url = https://github.com/drgomesp/midgarts
-	fetchRecurseSubmodules = false
+	url = https://github.com/rdw-forks/midgarts
 [submodule "Clients/Aesir"]
 	path = Clients/Aesir
 	url = https://github.com/Temtaime/aesir
