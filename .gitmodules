@@ -87,7 +87,7 @@
 	url = https://github.com/def-not-a-game-studio/unityro-sdk.git
 [submodule "Servers/aliter"]
 	path = Servers/aliter
-	url = https://github.com/aliter/aliter
+	url = https://github.com/rdw-forks/aliter
 [submodule "Servers/exAthena"]
 	path = Servers/exAthena
 	url = https://github.com/supaMOBA/exAthena
