@@ -103,3 +103,6 @@
 [submodule "Tools/RSM2"]
 	path = Tools/RSM2
 	url = https://github.com/Tokeiburu/RSM2.git
+[submodule "Servers/Helios"]
+	path = Servers/Helios
+	url = https://github.com/Tsusai/Ragnarok-HeliosEmulator/
