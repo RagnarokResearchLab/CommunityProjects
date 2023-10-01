@@ -106,3 +106,6 @@
 [submodule "Servers/Helios"]
 	path = Servers/Helios
 	url = https://github.com/Tsusai/Ragnarok-HeliosEmulator/
+[submodule "Tools/roint"]
+	path = Tools/roint
+	url = https://github.com/open-ragnarok/roint
