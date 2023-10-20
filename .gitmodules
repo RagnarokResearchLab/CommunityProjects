@@ -109,3 +109,6 @@
 [submodule "Tools/roint"]
 	path = Tools/roint
 	url = https://github.com/open-ragnarok/roint
+[submodule "Tools/luadec"]
+	path = Tools/luadec
+	url = https://github.com/viruscamp/luadec
