@@ -54,7 +54,7 @@
 	url = https://github.com/ADHSoft/ro-str-viewer
 [submodule "Clients/Dolori"]
 	path = Clients/Dolori
-	url = https://gitlab.com/Dolori/Dolori
+	url = https://gitlab.com/Dolori/Dolori.git
 [submodule "Clients/Apocalypse"]
 	path = Clients/Apocalypse
 	url = https://github.com/JohoSleipnir/Apocalypse
