@@ -23,10 +23,13 @@ jobs:
       - name: Create snapshot
         run: ./create-snapshot.sh
 
+      - name: Generate version tag
+        run: echo "VERSION_TAG=$(date '+v%Y.%m.%d')" >> $GITHUB_ENV
+
       - uses: actions/upload-artifact@v3
         with:
           name: snapshot.zip
-          path: snapshot.zip
+          path: snapshots/snapshot.zip
   
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
@@ -34,3 +37,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           files: snapshot.zip
+          name: Snapshot (${{ env.VERSION_TAG }})
+          tag_name: ${{ env.VERSION_TAG }}
