@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout git repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configure git user
         run: |
@@ -26,11 +26,11 @@ jobs:
       - name: Generate version tag
         run: echo "VERSION_TAG=$(date '+v%Y.%m.%d')" >> $GITHUB_ENV
 
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: snapshot.zip
           path: snapshots/snapshot.zip
-  
+
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         env:
