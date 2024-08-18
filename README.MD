@@ -1,6 +1,6 @@
 # Community Projects Mirror
 
-This repository contains various projects created and published by the RO community.
+This repository tracks various projects created and published by the RO community.
 
 ## Goals
 
@@ -13,6 +13,8 @@ Make sure to check out the repository *recursively* since it uses [Git submodule
 ```bash
 git clone https://github.com/RagnarokResearchLab/CommunityProjects.git --recursive
 ```
+
+Be aware that *all* dependencies will be fetched, some of which are quite large. Several gigabytes of hard disk space will be consumed.
 
 ## Licensing Information
 
