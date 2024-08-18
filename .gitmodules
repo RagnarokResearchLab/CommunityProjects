@@ -115,3 +115,15 @@
 [submodule "Clients/bevy_ro_client"]
 	path = Clients/bevy_ro_client
 	url = https://github.com/hukasu/bevy_ro_client
+[submodule "Clients/roBrowser__RemoteClientPHP"]
+	path = Clients/roBrowser__RemoteClientPHP
+	url = https://github.com/MrAntares/roBrowserLegacy-RemoteClient-PHP.git
+[submodule "Clients/roBrowser__RemoteClientJS"]
+	path = Clients/roBrowser__RemoteClientJS
+	url = https://github.com/FranciscoWallison/roBrowserLegacy-RemoteClient-JS
+[submodule "Clients/roBrowser__Plugins"]
+	path = Clients/roBrowser__Plugins
+	url = https://github.com/MrAntares/roBrowserLegacy-plugins
+[submodule "Clients/roBrowser__wsProxy"]
+	path = Clients/roBrowser__wsProxy
+	url = https://github.com/MrAntares/roBrowserLegacy-wsProxy
