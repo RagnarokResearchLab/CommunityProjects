@@ -112,3 +112,6 @@
 [submodule "Tools/luadec"]
 	path = Tools/luadec
 	url = https://github.com/viruscamp/luadec
+[submodule "Clients/bevy_ro_client"]
+	path = Clients/bevy_ro_client
+	url = https://github.com/hukasu/bevy_ro_client
