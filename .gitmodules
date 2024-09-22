@@ -127,3 +127,6 @@
 [submodule "Clients/roBrowser__wsProxy"]
 	path = Clients/roBrowser__wsProxy
 	url = https://github.com/MrAntares/roBrowserLegacy-wsProxy
+[submodule "Servers/horizon"]
+	path = Servers/horizon
+	url = https://github.com/horizonxyz/horizon.git
