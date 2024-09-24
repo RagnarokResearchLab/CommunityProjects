@@ -129,4 +129,4 @@
 	url = https://github.com/MrAntares/roBrowserLegacy-wsProxy
 [submodule "Servers/horizon"]
 	path = Servers/horizon
-	url = https://github.com/horizonxyz/horizon.git
+	url = https://github.com/rdw-forks/horizon.git
