@@ -6,7 +6,9 @@ git submodule foreach '
   git checkout $(git rev-parse --abbrev-ref HEAD)
   git reset --hard origin/HEAD
 '
-git branch -d submodule-update-tracking
+if git rev-parse --verify --quiet submodule-update-tracking; then
+    git branch -d submodule-update-tracking
+fi
 git checkout -b submodule-update-tracking
 git add .
 git commit -m "Update all submodules to the latest HEAD"
