@@ -154,3 +154,6 @@
 [submodule "Tools/GrannyConverterLibrary"]
 	path = Tools/GrannyConverterLibrary
 	url = https://github.com/Anohros/GrannyConverterLibrary.git
+[submodule "Tools/liboodle"]
+	path = Tools/liboodle
+	url = https://github.com/LunaticInAHat/liboodle.git
