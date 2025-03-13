@@ -136,3 +136,6 @@
 [submodule "Tools/gr2-web"]
 	path = Tools/gr2-web
 	url = https://github.com/herenow/gr2-web.git
+[submodule "Tools/opengr2-bevy"]
+	path = Tools/opengr2-bevy
+	url = https://github.com/NoFr1ends/opengr2-bevy.git
