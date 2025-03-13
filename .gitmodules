@@ -133,3 +133,6 @@
 [submodule "Servers/ProjectHorizon"]
 	path = Servers/ProjectHorizon
 	url = http://lab.projecthorizon.xyz/horizon/horizon.git
+[submodule "Tools/gr2-web"]
+	path = Tools/gr2-web
+	url = https://github.com/herenow/gr2-web.git
