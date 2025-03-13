@@ -151,3 +151,6 @@
 [submodule "Tools/Granny2-research"]
 	path = Tools/Granny2-research
 	url = https://github.com/arves100/Granny2-research.git
+[submodule "Tools/GrannyConverterLibrary"]
+	path = Tools/GrannyConverterLibrary
+	url = https://github.com/Anohros/GrannyConverterLibrary.git
