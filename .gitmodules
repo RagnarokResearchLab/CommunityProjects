@@ -130,3 +130,6 @@
 [submodule "Servers/horizon"]
 	path = Servers/horizon
 	url = https://github.com/rdw-forks/horizon.git
+[submodule "Servers/ProjectHorizon"]
+	path = Servers/ProjectHorizon
+	url = http://lab.projecthorizon.xyz/horizon/horizon.git
