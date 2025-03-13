@@ -157,3 +157,6 @@
 [submodule "Tools/liboodle"]
 	path = Tools/liboodle
 	url = https://github.com/LunaticInAHat/liboodle.git
+[submodule "Tools/Knit"]
+	path = Tools/Knit
+	url = https://github.com/yretenai/Knit.git
