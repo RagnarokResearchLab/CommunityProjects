@@ -145,3 +145,6 @@
 [submodule "Tools/opengr2-rs"]
 	path = Tools/opengr2-rs
 	url = https://github.com/NoFr1ends/opengr2-rs.git
+[submodule "Tools/opengr2"]
+	path = Tools/opengr2
+	url = https://github.com/arves100/opengr2.git
