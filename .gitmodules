@@ -148,3 +148,6 @@
 [submodule "Tools/opengr2"]
 	path = Tools/opengr2
 	url = https://github.com/arves100/opengr2.git
+[submodule "Tools/Granny2-research"]
+	path = Tools/Granny2-research
+	url = https://github.com/arves100/Granny2-research.git
