@@ -139,3 +139,6 @@
 [submodule "Tools/opengr2-bevy"]
 	path = Tools/opengr2-bevy
 	url = https://github.com/NoFr1ends/opengr2-bevy.git
+[submodule "Tools/opengr2-viewer"]
+	path = Tools/opengr2-viewer
+	url = https://github.com/NoFr1ends/opengr2-viewer.git
