@@ -1,0 +1,41 @@
+name: Weekly Release Snapshot
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout git repository
+        uses: actions/checkout@v4
+
+      - name: Configure git user
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update submodules
+        run: ./update-submodules.sh
+
+      - name: Create snapshot
+        run: ./create-snapshot.sh
+
+      - name: Generate version tag
+        run: echo "VERSION_TAG=$(date '+v%Y.%m.%d')" >> $GITHUB_ENV
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snapshot.zip
+          path: snapshots/snapshot.zip
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          files: snapshots/snapshot.zip
+          name: Snapshot (${{ env.VERSION_TAG }})
+          tag_name: ${{ env.VERSION_TAG }}
