@@ -1,159 +1,212 @@
 [submodule "Tools/BrowEdit"]
 	path = Tools/BrowEdit
 	url = https://github.com/Borf/browedit
+	shallow = true
 [submodule "Tools/BrowEdit3"]
 	path = Tools/BrowEdit3
 	url = https://github.com/Borf/BrowEdit3
+	shallow = true
 [submodule "Clients/Korangar"]
 	path = Clients/Korangar
 	url = https://github.com/vE5li/korangar
+	shallow = true
 [submodule "Clients/roBrowser"]
 	path = Clients/roBrowser
 	url = https://github.com/MrAntares/roBrowserLegacy
+	shallow = true
 [submodule "Clients/UnityRO"]
 	path = Clients/UnityRO
 	url = https://github.com/guilhermelhr/unityro
+	shallow = true
 [submodule "Clients/midgarts"]
 	path = Clients/midgarts
 	url = https://github.com/rdw-forks/midgarts
+	shallow = true
 [submodule "Clients/Aesir"]
 	path = Clients/Aesir
 	url = https://github.com/Temtaime/aesir
+	shallow = true
 [submodule "Clients/RagnarokRebuild"]
 	path = Clients/RagnarokRebuild
 	url = https://github.com/Doddler/RagnarokRebuild
+	shallow = true
 [submodule "Clients/RagnarokRebuildTCP"]
 	path = Clients/RagnarokRebuildTCP
 	url = https://github.com/Doddler/RagnarokRebuildTcp
+	shallow = true
 [submodule "Clients/RagnarokJS"]
 	path = Clients/RagnarokJS
 	url = https://github.com/GodLesZ/rangarok-js
+	shallow = true
 [submodule "Clients/Fimbulwinter"]
 	path = Clients/Fimbulwinter
 	url = https://github.com/rdw-forks/fimbulclient
+	shallow = true
 [submodule "Clients/OpenRagnarok"]
 	path = Clients/OpenRagnarok
 	url = https://github.com/open-ragnarok/open-ragnarok
+	shallow = true
 [submodule "Servers/RustRO"]
 	path = Servers/RustRO
 	url = https://github.com/nmeylan/rust-ro
+	shallow = true
 [submodule "Servers/rAthena"]
 	path = Servers/rAthena
 	url = https://github.com/rathena/rathena
+	shallow = true
 [submodule "Servers/Hercules"]
 	path = Servers/Hercules
 	url = https://github.com/HerculesWS/Hercules
+	shallow = true
 [submodule "Servers/Midgard"]
 	path = Servers/Midgard
 	url = https://github.com/ViteFalcon/midgard
+	shallow = true
 [submodule "Clients/Rustarok"]
 	path = Clients/Rustarok
 	url = https://github.com/bbodi/rustarok
+	shallow = true
 [submodule "Tools/ro-str-viewer"]
 	path = Tools/ro-str-viewer
 	url = https://github.com/ADHSoft/ro-str-viewer
+	shallow = true
 [submodule "Clients/Dolori"]
 	path = Clients/Dolori
 	url = https://gitlab.com/Dolori/Dolori.git
+	shallow = true
 [submodule "Clients/Apocalypse"]
 	path = Clients/Apocalypse
 	url = https://github.com/JohoSleipnir/Apocalypse
+	shallow = true
 [submodule "Clients/Gullinkambi"]
 	path = Clients/Gullinkambi
 	url = https://github.com/meh/Gullinkambi
+	shallow = true
 [submodule "Clients/MidgardClient"]
 	path = Clients/MidgardClient
 	url = https://github.com/shikazu/MidgardClient
+	shallow = true
 [submodule "Tools/zgrf"]
 	path = Tools/zgrf
 	url = https://github.com/zhad3/zgrf
+	shallow = true
 [submodule "Tools/zrenderer"]
 	path = Tools/zrenderer
 	url = https://github.com/zhad3/zrenderer
+	shallow = true
 [submodule "Tools/zextractor"]
 	path = Tools/zextractor
 	url = https://github.com/zhad3/zextractor
+	shallow = true
 [submodule "Tools/GrfUnpack"]
 	path = Tools/GrfUnpack
 	url = https://github.com/exectails/GrfUnpack
+	shallow = true
 [submodule "Tools/grf-reader"]
 	path = Tools/grf-reader
 	url = https://github.com/EmanuelJr/grf-reader
+	shallow = true
 [submodule "Tools/RRF-Parser"]
 	path = Tools/RRF-Parser
 	url = https://github.com/Tokeiburu/Rrf-Parser.git
+	shallow = true
 [submodule "Clients/UnityRO-SDK"]
 	path = Clients/UnityRO-SDK
 	url = https://github.com/def-not-a-game-studio/unityro-sdk.git
+	shallow = true
 [submodule "Servers/aliter"]
 	path = Servers/aliter
 	url = https://github.com/rdw-forks/aliter
+	shallow = true
 [submodule "Servers/exAthena"]
 	path = Servers/exAthena
 	url = https://github.com/supaMOBA/exAthena
+	shallow = true
 [submodule "Tools/ROplusplus"]
 	path = Tools/ROplusplus
 	url = https://github.com/phaicm/ROplusplus.git
+	shallow = true
 [submodule "Tools/GRFEditor"]
 	path = Tools/GRFEditor
 	url = https://github.com/Tokeiburu/GRFEditor.git
+	shallow = true
 [submodule "Tools/ActEditor"]
 	path = Tools/ActEditor
 	url = https://github.com/Tokeiburu/ActEditor.git
+	shallow = true
 [submodule "Tools/RSM2"]
 	path = Tools/RSM2
 	url = https://github.com/Tokeiburu/RSM2.git
+	shallow = true
 [submodule "Servers/Helios"]
 	path = Servers/Helios
 	url = https://github.com/Tsusai/Ragnarok-HeliosEmulator/
+	shallow = true
 [submodule "Tools/roint"]
 	path = Tools/roint
 	url = https://github.com/open-ragnarok/roint
+	shallow = true
 [submodule "Tools/luadec"]
 	path = Tools/luadec
 	url = https://github.com/viruscamp/luadec
+	shallow = true
 [submodule "Clients/bevy_ro_client"]
 	path = Clients/bevy_ro_client
 	url = https://github.com/hukasu/bevy_ro_client
+	shallow = true
 [submodule "Clients/roBrowser__RemoteClientPHP"]
 	path = Clients/roBrowser__RemoteClientPHP
 	url = https://github.com/MrAntares/roBrowserLegacy-RemoteClient-PHP.git
+	shallow = true
 [submodule "Clients/roBrowser__RemoteClientJS"]
 	path = Clients/roBrowser__RemoteClientJS
 	url = https://github.com/FranciscoWallison/roBrowserLegacy-RemoteClient-JS
+	shallow = true
 [submodule "Clients/roBrowser__Plugins"]
 	path = Clients/roBrowser__Plugins
 	url = https://github.com/MrAntares/roBrowserLegacy-plugins
+	shallow = true
 [submodule "Clients/roBrowser__wsProxy"]
 	path = Clients/roBrowser__wsProxy
 	url = https://github.com/MrAntares/roBrowserLegacy-wsProxy
+	shallow = true
 [submodule "Servers/horizon"]
 	path = Servers/horizon
 	url = https://github.com/rdw-forks/horizon.git
+	shallow = true
 [submodule "Tools/gr2-web"]
 	path = Tools/gr2-web
 	url = https://github.com/herenow/gr2-web.git
+	shallow = true
 [submodule "Tools/opengr2-bevy"]
 	path = Tools/opengr2-bevy
 	url = https://github.com/NoFr1ends/opengr2-bevy.git
+	shallow = true
 [submodule "Tools/opengr2-viewer"]
 	path = Tools/opengr2-viewer
 	url = https://github.com/NoFr1ends/opengr2-viewer.git
+	shallow = true
 [submodule "Tools/opengr2-rs"]
 	path = Tools/opengr2-rs
 	url = https://github.com/NoFr1ends/opengr2-rs.git
+	shallow = true
 [submodule "Tools/opengr2"]
 	path = Tools/opengr2
 	url = https://github.com/arves100/opengr2.git
+	shallow = true
 [submodule "Tools/Granny2-research"]
 	path = Tools/Granny2-research
 	url = https://github.com/arves100/Granny2-research.git
+	shallow = true
 [submodule "Tools/GrannyConverterLibrary"]
 	path = Tools/GrannyConverterLibrary
 	url = https://github.com/Anohros/GrannyConverterLibrary.git
+	shallow = true
 [submodule "Tools/liboodle"]
 	path = Tools/liboodle
 	url = https://github.com/LunaticInAHat/liboodle.git
+	shallow = true
 [submodule "Tools/Knit"]
 	path = Tools/Knit
 	url = https://github.com/yretenai/Knit.git
+	shallow = true
