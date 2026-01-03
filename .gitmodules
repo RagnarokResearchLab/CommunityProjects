@@ -214,3 +214,6 @@
 	path = Clients/ragnarok-offline
 	url = https://github.com/arkadeleon/ragnarok-offline.git
 	shallow = true
+[submodule "Clients/lifthrasir"]
+	path = Clients/lifthrasir
+	url = https://github.com/EndurnyrProject/lifthrasir
