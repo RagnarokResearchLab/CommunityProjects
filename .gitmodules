@@ -222,3 +222,11 @@
 	path = Servers/aesir
 	url = https://github.com/EndurnyrProject/aesir
 	shallow = true
+[submodule "Servers/eathena"]
+	path = Servers/eathena
+	url = https://github.com/eathena/eathena
+	shallow = true
+[submodule "Servers/3ceam"]
+	path = Servers/3ceam
+	url = https://github.com/eathena/3ceam
+	shallow = true
